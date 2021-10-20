@@ -1,4 +1,4 @@
 # vibecheck
-database server:
-username: s3698211_fwp_a2
+database server:\n
+username: s3698211_fwp_a2\n
 password: abc123
